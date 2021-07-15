@@ -5,4 +5,7 @@ _Adding a new feature branch_
 
 *Updating readme on origin or remote**
 
+HEAD
 **Trying to see when changes conflict**
+
+_Conflicting changes; what should i do?_
