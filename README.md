@@ -4,3 +4,5 @@
 _Adding a new feature branch_
 
 *Updating readme on origin or remote**
+
+**Trying to see when changes conflict**
