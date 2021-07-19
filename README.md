@@ -9,3 +9,4 @@ HEAD
 **Trying to see when changes conflict**
 
 _Conflicting changes; what should i do?_
+ - **Nice looks like i can edit this now**
